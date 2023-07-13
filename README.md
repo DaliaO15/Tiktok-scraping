@@ -20,8 +20,6 @@ Create a new virtual environment and install all the necessary Python packages:
 ```
 conda env create -f environment.yml
 conda activate tiktok_scraping_and_transcription
-# Now install Whispers
-# Now install spicy
 ```
 
 To run the scraper, you will need to have a web driver. You can download the Chrome driver from this [link](https://chromedriver.chromium.org/downloads) and the Firefox driver from this [link](https://github.com/mozilla/geckodriver/releases). Personally, I used the Chrome driver for this project.
@@ -32,3 +30,5 @@ For the transcriptions and analysis, you will need to install the Whispers model
 # Now install Whispers
 # Now install spicy
 ```
+
+## Demo of input, middle point, and ouput
