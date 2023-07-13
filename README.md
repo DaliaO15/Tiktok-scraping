@@ -11,11 +11,24 @@ The project consists of three main parts:
 
 The most important part of the project involves collecting metadata, specifically the links to each video per TikTok channel. The challenge here is that TikTok's platform undergoes frequent changes, making it difficult to access or locate the class that contains the video links. The file "metadata_all_videos.py" was a functional solution as of May 31st, 2023, but you may need to make modifications when you use it (although you can take inspiration from it).
 
-## Dependencies
+> Tip: an alternative to scraping the links with Python is to use other scraping tools, such as Web Scraper io.
+
+## Requirements
 
 Create a new virtual environment and install all the necessary Python packages:
+
 ```
 conda env create -f environment.yml
 conda activate tiktok_scraping_and_transcription
+# Now install Whispers
+# Now install spicy
 ```
-For the transcriptions and analysis, you will need to install the Whispers model and the spicy model for english (or the language of those videos). You can find [here](https://github.com/openai/whisper) the instalation instructions for Whispers and [here](https://anaconda.org/conda-forge/spacy) for spicy. 
+
+To run the scraper, you will need to have a web driver. You can download the Chrome driver from this [link](https://chromedriver.chromium.org/downloads) and the Firefox driver from this [link](https://github.com/mozilla/geckodriver/releases). Personally, I used the Chrome driver for this project.
+
+For the transcriptions and analysis, you will need to install the Whispers model and the spaCy model for the English language (or the language of the videos you're working with). You can find the installation instructions for Whispers [here](https://github.com/openai/whisper) and for spaCy [here](https://anaconda.org/conda-forge/spacy).
+
+```
+# Now install Whispers
+# Now install spicy
+```
