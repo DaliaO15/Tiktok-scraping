@@ -2,7 +2,7 @@
 
 Full pipeline for the collection and analysis of TikTok videos and metadata with Python.  
 
-<img src="https://github.com/DaliaO15/Tiktok_scraping_and_analysis/blob/main/images/abstract_2.png" width="48">
+<img src="./images/abstract_2.png" width="48">
 
 The project consists of three main parts: 
 - Metadata collection,
