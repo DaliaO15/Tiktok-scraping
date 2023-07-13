@@ -35,11 +35,12 @@ For the transcriptions and analysis, you will need to install the Whispers model
 
 How the input may look like: 
 
-<img src="./images/input.png" width="950">
+<img src="./images/input.png" width="450">
+
 
 The final data frame for author XXX would look like: 
 
 <img src="./images/data_per_author.png" width="950">
 
 A figure showing the first 20 most common nouns used in XXX's tiktoks:
-<img src="./images/authorXXX_Nouns.jpeg" width="950">
+<img src="./images/authorXXX_Nouns.jpeg" width="450">
