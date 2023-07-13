@@ -2,7 +2,7 @@
 
 Full pipeline for the collection and analysis of TikTok videos and metadata with Python.  
 
-<img src="./images/abstract_2.png" width="408">
+<img src="./images/abstract_2.png" width="950">
 
 The project consists of three main parts: 
 - Metadata collection,
@@ -32,3 +32,14 @@ For the transcriptions and analysis, you will need to install the Whispers model
 ```
 
 ## Demo of input, middle point, and ouput
+
+How the input may look like: 
+
+<img src="./images/input.png" width="950">
+
+The final data frame for author XXX would look like: 
+
+<img src="./images/data_per_author.png" width="950">
+
+A figure showing the first 20 most common nouns used in XXX's tiktoks:
+<img src="./images/authorXXX_Nouns.jpeg" width="950">
