@@ -11,7 +11,7 @@ The project consists of three main parts:
 
 The most important part of the project involves collecting metadata, specifically the links to each video per TikTok channel. The challenge here is that TikTok's platform undergoes frequent changes, making it difficult to access or locate the class that contains the video links. The file "metadata_all_videos.py" was a functional solution as of May 31st, 2023, but you may need to make modifications when you use it (although you can take inspiration from it).
 
-> Tip: an alternative to scraping the links with Python is to use other scraping tools, such as Web Scraper io.
+> Tip: an alternative to scraping the links with Python is to use other scraping tools, such as Web Scraper io (extensions available for Chrome and Firefox).
 
 ## Requirements
 
@@ -44,3 +44,7 @@ The final data frame for author_XXX would look like:
 A figure showing the first 20 most common nouns used in author_XXX's tiktoks:
 
 <p align="center"><img src="./images/authorXXX_Nouns.jpeg" align="center" width="450"/></p>
+
+## Author and contact details 
+
+Dalia Ortiz Pablo (dalia.ortiz_pablo@abm.uu.se)
