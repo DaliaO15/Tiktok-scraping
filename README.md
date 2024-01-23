@@ -1,6 +1,6 @@
 # TikTok sraping and video transcription
 
-Full pipeline for the collection and analysis of TikTok videos and metadata with Python.  
+Full pipeline for Tiktok's video post and metadeta scraping and transcriptions analysis. 
 
 <img src="./images/abstract_2.png" width="950">
 
