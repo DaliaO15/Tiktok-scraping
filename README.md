@@ -45,6 +45,13 @@ A figure showing the first 20 most common nouns used in author_XXX's tiktoks:
 
 <p align="center"><img src="./images/authorXXX_Nouns.jpeg" align="center" width="450"/></p>
 
+## License 
+
+- Refer to the LICENSE file for details on the license.
+- The authors of this code not accept any responsibility for the misuse of it.
+- This project was conducted under certified ethical approval.
+
+
 ## Author and contact details 
 
 Dalia Ortiz Pablo (dalia.ortiz_pablo@abm.uu.se)
