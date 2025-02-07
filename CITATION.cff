@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: Tiktok-scraping
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - given-names: Dalia
+    family-names: Ortiz Pablo
+    affiliation: CDHU, Uppsala University
+repository-code: 'https://github.com/DaliaO15/Tiktok-scraping'
+url: 'https://github.com/DaliaO15/Tiktok-scraping'
+license: BSD-2
+version: 1.0.0
+date-released: '2023-07-13'
