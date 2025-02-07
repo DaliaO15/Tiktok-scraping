@@ -52,6 +52,16 @@ A figure showing the first 20 most common nouns used in author_XXX's tiktoks:
 - This project was conducted under certified ethical approval.
 
 
-## Author and contact details 
+## Cite this repo
 
-Dalia Ortiz Pablo (dalia.ortiz_pablo@abm.uu.se)
+```
+@software{Ortiz_Pablo_Tiktok-scraping_2023,
+author = {Ortiz Pablo, Dalia},
+license = {BSD-2},
+month = jul,
+title = {{Tiktok-scraping}},
+url = {https://github.com/DaliaO15/Tiktok-scraping},
+version = {1.0.0},
+year = {2023}
+}
+```
